@@ -1,0 +1,13 @@
+class Calculator
+  def add(a, b)
+  @a = a 
+  @b = b
+    return a + b 
+  end
+
+  def subtract(a, b) 
+    @a = a
+    @b = b
+    return a - b
+  end
+end
