@@ -1,0 +1,61 @@
+<!DOCTYPEhtml>
+
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="Stylesheet.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+		<script src="script.js"></script>
+		<title>Cilantro-Lime Salad Dressing</title>
+	</head>
+	<body>
+		<Section>
+		<div id="heading">
+			<h1 id="title">Cilantro-Lime Salad Dressing</h1>
+			<h3>Makes 6 Servings (1 1/4 Cup Total)</h3>
+		</div>	
+		</Section>
+		<section>	
+		<div id=nutr>
+			<h2><em>Nutrition</em></h2>		
+				<p><strong>Per tablespoon:</strong> 53 calories; 6 g fat (1 g sat, 4 g mono); 0 mg cholesterol; 1 g carbohydrates; 0 g protein; 0 g fibre; 59 mg sodium; 14 mg potassium.
+				</p>
+		</div>		
+		</section>	
+		<section>
+		<div id="ing">
+		<h2>Ingredients</h2>
+				<p>
+					<ul>
+						<li><em>1 cup</em> packed cilantro</li>
+						<li><em>1/2 cup</em> extra-virgin olive oil</li>
+						<li><em>1/4 cup</em> lime juice</li>
+						<li><em>1/4 cup</em> orange juice</li>
+						<li><em>1/2 teaspoon</em> salt</li>
+						<li><em>1/2 teaspoon</em> black pepper</li>
+						<li><em>1 Pinch</em> minced garlic</li>	
+					</ul>	
+				</p>
+		</div>		
+		</section>	
+		<section>
+		<div id="prep">
+			<h2>Preparation</h2>	
+				<p>
+					<ol>
+						<li>Using food processor (e.g. standard blender or magic bullet) blend cilantro and garlic until pureed.</li>	
+						<li>Add oil, lime juice, and orange juice to puree mix and blend until smooth</li>
+						<li>Add salt and pepper, to taste.</li>
+						<li>Use immediately, or portion into storage containers and freeze for future use.</li>
+					</ol>	
+				</p>
+		</div>
+		</section>
+		<section>	
+			<img id="one" src="http://i.imgur.com/lDN7cSI.jpg"/>
+			<img id="three" src="http://i.imgur.com/DldCIuS.jpg"/>
+			<img id="four" src="http://i.imgur.com/BGety3d.jpg"/>	
+		</section>
+			
+	</body>
+</html>	
+
